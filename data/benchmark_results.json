@@ -1,0 +1,26 @@
+{
+    "Random Forest": {
+        "ROC-AUC": 0.5341,
+        "PR-AUC": 0.3588,
+        "F1-Score": 0.2299,
+        "Accuracy": 0.663
+    },
+    "MLP": {
+        "ROC-AUC": 0.5386,
+        "PR-AUC": 0.3612,
+        "F1-Score": 0.0777,
+        "Accuracy": 0.6917
+    },
+    "Standard GCN": {
+        "ROC-AUC": 0.6216,
+        "PR-AUC": 0.423,
+        "F1-Score": 0.0029,
+        "Accuracy": 0.6966
+    },
+    "Our GAT (Phase-2)": {
+        "ROC-AUC": 0.8682,
+        "PR-AUC": 0.6415,
+        "F1-Score": 0.6521,
+        "Accuracy": 0.884
+    }
+}

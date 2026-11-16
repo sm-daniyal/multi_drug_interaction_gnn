@@ -1,0 +1,30 @@
+{
+  "doctor_admin": {
+    "userid": "doctor_admin",
+    "email": "doctor@jnnce.edu",
+    "password": "doctor123",
+    "role": "doctor",
+    "name": "Dr. Syed Daniyal (Physician)"
+  },
+  "doctor_vaibhav": {
+    "userid": "doctor_vaibhav",
+    "email": "doctor@hospital.org",
+    "password": "password123",
+    "role": "doctor",
+    "name": "Dr. Vaibhav M, MD"
+  },
+  "patient_user": {
+    "userid": "patient_user",
+    "email": "patient@health.org",
+    "password": "patient123",
+    "role": "patient",
+    "name": "Rahul Kumar (Patient)"
+  },
+  "patient_srujan": {
+    "userid": "patient_srujan",
+    "email": "patient@demo.com",
+    "password": "password123",
+    "role": "patient",
+    "name": "Srujan B (Patient Profile)"
+  }
+}

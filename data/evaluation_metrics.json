@@ -1,0 +1,26 @@
+{
+    "phase": "Phase-2 SOTA Optimized Architecture",
+    "architecture": "GATv2 with Multi-Head Dynamic Attention & Weighted BCE",
+    "ROC-AUC_macro": 0.8741,
+    "PR-AUC_macro": 0.5371,
+    "Binary_Accuracy": 0.8611,
+    "Top5_Retrieval_Accuracy": 0.8689,
+    "Top10_Retrieval_Accuracy": 0.9522,
+    "Confusion_Matrix": [
+        [
+            6059,
+            3,
+            457
+        ],
+        [
+            298,
+            4,
+            291
+        ],
+        [
+            596,
+            12,
+            4882
+        ]
+    ]
+}
