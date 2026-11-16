@@ -1,0 +1,36 @@
+=====================================================================
+Multi-Drug Interaction Prediction System using Graph Neural Networks
+JNNCE Department of IS&E | Project Phase - II (BIS786) | Batch 25
+=====================================================================
+
+HOW TO RUN ON YOUR LAPTOP (WINDOWS):
+------------------------------------
+Prerequisite:
+1. Make sure Python 3.10, 3.11, or 3.12 is installed on your computer.
+   (Download from https://www.python.org/downloads/ if not installed.
+    IMPORTANT: Check the box "Add python.exe to PATH" when installing).
+
+FIRST TIME RUNNING:
+-------------------
+Simply double-click:
+    INSTALL_AND_RUN.bat
+
+This will automatically:
+1. Create a local Python virtual environment (venv) on your laptop.
+2. Install all required dependencies (Torch, Torch-Geometric, Streamlit, etc.).
+3. Launch the dashboard automatically in your browser at:
+   http://localhost:8501
+
+EVERY NEXT TIME:
+----------------
+Simply double-click:
+    RUN_APP.bat
+
+FEATURES READY OUT OF THE BOX:
+------------------------------
+- 100% Offline SQLite database with 4,064 indexed drug formulations A-Z.
+- Real-time typing autocomplete drug search.
+- Pre-trained GATv2 model checkpoint loaded and ready for predictions.
+- Hospital Clinical Prescription Audit PDF generator with academic watermark.
+- Explainable AI (XAI) attention bar charts and 19,734-node Knowledge Graph.
+- Collapsible Patient Clinical Factors & Comorbidities sidebar.
